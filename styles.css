@@ -189,7 +189,7 @@ body {
   width: clamp(84px, 22vw, 116px);
   aspect-ratio: 4 / 5;
   object-fit: cover;
-  border: 5px solid var(--acento);
+  border: 5px solid var(#B98CFF);
   border-radius: 6px;
   outline: 2px solid rgb(251 235 211 / 0.6);
   outline-offset: 3px;
